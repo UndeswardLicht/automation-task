@@ -9,10 +9,6 @@ The user of the program should be able to use the following functionality:
     delete an employee
 
 Each employee should have:
-    specialization (engineer or manager)
-    position
-    age
-    marital status
-    current length of service
+    specialization (engineer or manager), position, age, marital status, сurrent length of service
     
 Employee data should be saved between program launches (implemented using csv files)
