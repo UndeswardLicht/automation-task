@@ -1,17 +1,18 @@
 # automation-task
 
-Написать небольшую простую программу "База сотрудников".
+This is a small simple program "Employee Database" + simple JUnit Test .
 
-Пользователь программы должен иметь возможность воспользоваться следующей функциональностью:
+The user of the program should be able to use the following functionality:
 
-    добавить сотрудника в список
-    получить список всех сотрудников
-    удалить сотрудника
+    add an employee to the list
+    get a list of all employees
+    delete an employee
 
-Каждый сотрудник должен иметь:
-    специализацию (инженер или менеджер)
-    должность
-    возраст
-    семейное положение
-    актуальный стаж
-Данные о сотрудниках должны сохраняться между запусками программы.
+Each employee should have:
+    specialization (engineer or manager)
+    position
+    age
+    marital status
+    current length of service
+    
+Employee data should be saved between program launches (implemented using csv files)
